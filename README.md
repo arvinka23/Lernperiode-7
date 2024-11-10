@@ -12,6 +12,7 @@ also heute war ich mit meinem Arbeit zufreiden desto trotz könnte ich die letzt
 
 ---
 # 8.11.2024
-- [ ] AP 1: die farben an passen und   alles kontrollieren
+- [x] AP 1: die farben an passen und   alles kontrollieren
 - [ ] Ap 2,3 und 4 die paths für alle figuren zu machen
-
+      
+Ich habe es geschafft, die Farben zu wechseln und das Brett in der Mitte zu platzieren. Irgendwie habe ich in dieser langen Zeit weniger daran gearbeitet, deshalb habe ich auch am Wochenende daran gearbeitet. jetzt gibt es sogar schwarzweiss funktionen
