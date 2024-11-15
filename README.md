@@ -20,4 +20,4 @@ Ich habe es geschafft, die Farben zu wechseln und das Brett in der Mitte zu plat
 ---
 # 15.11.2024
 
-- [ ] Ap: 
+- [ ] Ap1 bis 4: ich versuche alle paths fertig zu machen und die hintergrund farbe zu anpassen
