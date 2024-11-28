@@ -23,6 +23,11 @@ Ich habe es geschafft, die Farben zu wechseln und das Brett in der Mitte zu plat
 - [x] Ap1 bis 4: ich versuche alle paths fertig zu machen und die hintergrund farbe zu anpassen
 
 ich habe heute funktionierende Figurenbewegungen mit grundlegender Zugvalidierung und Spielerwechsel implementiert. ich habe alle notwendigen Dateien (HTML, CSS, JS) verbessert, das Spielfeld gestaltet und die Logik für Zugregeln wie Bauern-, Turm- und Königszüge hinzugefügt. aber das problem ist jetzt das die bauern nur eine nach vorn gehen können und man seine eigene figüren fressen kann.
+---
+22.11.2024 
+- [x] Ich werde an modul 294 die aufträge machen und mich für Lb virebereiten
+
+Ich habe heute gut gearbeitet und die aufgaben, welche ich erledigen wollte, erledigt.
 
 
 
