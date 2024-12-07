@@ -32,6 +32,10 @@ Ich habe heute gut gearbeitet und die aufgaben, welche ich erledigen wollte, erl
 # 29.11.2024
 - [ ] ich werde an dem LB von Modul 294 arbeiten und die aufgaben 2,3,4 feritg machen
 
+ich habe heute gut gearbeitet aber nur geschafft aufgabe 2 und 3 machen.
+
+# 06.12.2024
+ich werde mich heute um die fehlers von meinem progam kümmern die figuren sollen sich selbst und die gleichfarbige figuren nicht nehmen können
 
 
 
