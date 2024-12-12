@@ -37,6 +37,11 @@ ich habe heute gut gearbeitet aber nur geschafft aufgabe 2 und 3 machen.
 # 06.12.2024
 ich werde mich heute um die fehlers von meinem progam kümmern die figuren sollen sich selbst und die gleichfarbige figuren nicht nehmen können
 
+ich habe versucht die fehlers zu lösen aber war unerfolgreich in 2 wochen werde ich das nochmal versuchen
+---
+# 12.12.2024
+da ich am 12.12.2024 krank war, will ich mit dem Modul 295 starten die aufgaben machen.
+
 
 
 
