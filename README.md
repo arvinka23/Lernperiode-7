@@ -30,19 +30,20 @@ ich habe heute funktionierende Figurenbewegungen mit grundlegender Zugvalidierun
 Ich habe heute gut gearbeitet und die aufgaben, welche ich erledigen wollte, erledigt.
 
 # 29.11.2024
-- [ ] ich werde an dem LB von Modul 294 arbeiten und die aufgaben 2,3,4 feritg machen
+- [x] ich werde an dem LB von Modul 294 arbeiten und die aufgaben 2,3,4 feritg machen
 
 ich habe heute gut gearbeitet aber nur geschafft aufgabe 2 und 3 machen.
 
 # 06.12.2024
-ich werde mich heute um die fehlers von meinem progam kümmern die figuren sollen sich selbst und die gleichfarbige figuren nicht nehmen können
+- [x] ich werde mich heute um die fehlers von meinem progam kümmern die figuren sollen sich selbst und die gleichfarbige figuren nicht nehmen können
 
 ich habe versucht die fehlers zu lösen aber war unerfolgreich in 2 wochen werde ich das nochmal versuchen
 ---
 # 12.12.2024
-da ich am 12.12.2024 krank war, will ich mit dem Modul 295 starten die aufgaben machen.
+- [x] Da ich am 12.12.2024 krank war, möchte ich mit dem Modul 295 starten und die Aufgaben bearbeiten.
 
-
+Ich habe heute die erste Aufgabe des Moduls gemacht, nämlich Aufgabe 01. Ich habe eine Bewertung von 2,1 erhalten, meinen Code verbessert und nun gibt es eine Box.
+Jetzt können die figuren seine eingene figuren nicht schlagen und jetzt gibt eine Schachuhr also die Funktion validateMove und handleSquareClick müssten verbessert werden und die Funktionen startTimer und updateClockDisplay wurden erstellt
 
 
 
