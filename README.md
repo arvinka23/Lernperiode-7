@@ -43,7 +43,12 @@ ich habe versucht die fehlers zu lösen aber war unerfolgreich in 2 wochen werde
 - [x] Da ich am 12.12.2024 krank war, möchte ich mit dem Modul 295 starten und die Aufgaben bearbeiten.
 
 Ich habe heute die erste Aufgabe des Moduls gemacht, nämlich Aufgabe 01. Ich habe eine Bewertung von 2,1 erhalten, meinen Code verbessert und nun gibt es eine Box.
+
 Jetzt können die figuren seine eingene figuren nicht schlagen und jetzt gibt eine Schachuhr also die Funktion validateMove und handleSquareClick müssten verbessert werden und die Funktionen startTimer und updateClockDisplay wurden erstellt
+
+---
+# 20.12.2024
+- [ ] heute werde ich versuchen matt zu implementieren und dann den projekt schleissen da heute die letzte Woche vor den Ferien ist
 
 
 
